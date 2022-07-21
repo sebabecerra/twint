@@ -1,4 +1,5 @@
-aiohttp
+aiohttp==3.7.0
+aiogram==2.2
 aiodns
 beautifulsoup4
 cchardet
